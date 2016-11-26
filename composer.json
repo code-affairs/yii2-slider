@@ -1,0 +1,27 @@
+{
+  "name": "code-affairs/yii2-slider",
+  "description": "Responsive slider for Yii2",
+  "keywords": [
+    "slider",
+    "responsive slider",
+    "yii2"
+  ],
+  "type": "extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ugur CELIK",
+      "email": "ugur@codeaffairs.com"
+    }
+  ],
+
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "codeaffairs\\slider\\": ""
+    }
+  }
+}
